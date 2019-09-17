@@ -1,0 +1,16 @@
+{
+  "name": "sample-npm-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/Message/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-router-dom": "^5.0.1",
+    "typescript": "^3.6.3"
+  }
+}
