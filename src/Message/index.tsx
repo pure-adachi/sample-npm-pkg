@@ -1,7 +1,7 @@
 import * as React from "react";
 
 const Message = () => {
-  return <>Hello World !!</>;
+  return <>Hello New World !!</>;
 };
 
 export default Message;
